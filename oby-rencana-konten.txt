@@ -7,6 +7,7 @@ Rencana Konten Oby
   - vuejs
   - reactjs
   - angular
+  - backbones
 
 - Struktur data & Algoritma
 - Ruby
